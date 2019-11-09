@@ -1,5 +1,6 @@
 #Stephen Greene
 #Biot-Savart Law
+#Numerical Integration 
 
 import numpy as np
 import matplotlib.pyplot as plt
